@@ -1,0 +1,11 @@
+{
+ "name": "ANT",
+ "website": "http://www.dg-zhonghong.com/",
+ "description": "ANT",
+ "explorer": "https://hecoinfo.com/token/0xbd0ade0242d62ec2d3181374e2ca4edc48698519",
+ "type": "BEP20",
+ "symbol": "ANT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xbd0ade0242d62ec2d3181374e2ca4edc48698519"
+}
