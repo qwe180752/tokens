@@ -1,11 +1,11 @@
 {
- "name": "ANT",
+ "name": "°¬¸ANT",
  "website": "http://www.dg-zhonghong.com/",
- "description": "ANT",
+ "description": "EGO, Maintaining the Highest Standards of Security and Innovation.",
  "explorer": "https://hecoinfo.com/token/0xbd0ade0242d62ec2d3181374e2ca4edc48698519",
- "type": "BEP20",
+ "type": "HRC-20",
  "symbol": "ANT",
  "decimals": 18,
  "status": "active",
  "id": "0xbd0ade0242d62ec2d3181374e2ca4edc48698519"
-}
+} 
